@@ -10,7 +10,7 @@ The project uses the flexibility of python language and gearman for the distribu
 
 gsearch() algorithm:
 
-1.  Program uses the google to generate a list of all the links related to the search
+1.  Program uses the Google Search to generate a list of all the links related to the search.
 2.  Later the program reads and fetches the titles of each html pages that the links and prints it to the terminal.
     This on the single node is done using python's multiprocessing library.
 
